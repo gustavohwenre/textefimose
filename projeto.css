@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    background-color: white;
+     /* max-width: 90%;  */
+    height: 100vh;
+    margin: auto;
+    text-align: center;
+    
+
+}
+.cab{
+  background-color: white;
+  max-width: 98%;  
+  height: 100px;
+  margin: auto;
+  
+  padding-top: 5;
+  
+}
+.bol{
+background-color: white;
+height: 350px;
+max-width: 98%;
+margin: auto;
+padding: 30px;
+
+}
+.fot {
+    background-color: white;
+height: 150px;
+max-width: 98%;
+margin: auto;
+
+}
+.fot img{
+ 
+    height: 1
+}
+.of{
+background-color:yellowgreen;
+height: 70px;
+max-width: 98%;
+margin: auto;
+text-align:  center;
+padding-bottom: 20px;
+vertical-align: baseline;
+}
+
+.fod img{
+    float:left;
+    width: 200px;
+}
+h2{
+    font-family: 'Dancing Script';
+    text-align: center;
+    float: center;
+    
+}
+h3{
+    font-family: 'Dancing Script';
+    color: black;
+    padding: 20px;
+    font-size: 50px;
+}
+
+/* icons */
+
+ul li{
+    list-style: none;
+    display: inline;
+    padding: 20px;
+    float: center;
+    
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    opacity: 0.7;
+    font-weight: bold;
+    transition: 2.s;
+    color: white;
+}
+
+#menu img{
+
+    width: 25px;
+    
+}
+    
+/* formulario */
+
+.forma{
+    width: 500px;
+    height: 300px;
+    margin-left:30%;
+    box-shadow: yellowgreen 10px 10px 10px 20px;
+    border-radius: 20px;
+    opacity: 90%;
+    
+}
+
+input[type=text],[type=email],[type=tel]{
+    background-color:white;
+    border-radius: 15px;
+}
+textarea{
+    background-color:white;
+}
+input[type="reset"],[type="submit"]{
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+
+
+.pict{
+
+    height: 150px;
+    width: 90%;
+    padding-left: 450px;
+    text-align: center;
+}
+.pict img{
+    width: 150px;
+    float: left;
+    margin-left: 5px;
+    
+}
+
+.pictu{
+
+    height: 150px;
+    width: 90%;
+    text-align: center;
+    padding-left: 450px;
+}
+
+.pictu img{
+    width: 150px;
+    float: left;
+    margin-left: 5px;
+}
+
